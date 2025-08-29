@@ -13,6 +13,7 @@ Olá! Sou um desenvolvedor **Full Stack** com experiência em **Android** e **Ba
     * **Android Jetpack** (Navigation, Paging3, etc.).
 * **Bancos de Dados e APIs:**
     * **ROOM Database** (SQLite).
+    * **Persistência de dados** com **Shared Preferences**
     * Consumo de **REST APIs** com **Retrofit2**, **OkHttp** e **Ktor Client**.
 * **Ferramentas e Conceitos:**
     * **Injeção de dependências** com **Dagger Hilt** e **Koin**.
@@ -22,9 +23,11 @@ Olá! Sou um desenvolvedor **Full Stack** com experiência em **Android** e **Ba
 * **Qualidade e CI/CD:**
     * **Testes Unitários** (**JUnit**) e **Instrumentados** (**Espresso**).
     * **CI/CD** com **GitHub Actions**.
-    * **Gradle**.
+    * **Gradle** (Flavors, Build Types, Build Variants).
     * **Git** para controle de versão.
-
+* **Segurança:**
+    * **ProGuard R8** Otimização de Builds e Ofuscação
+    * **Criptografia** com Java Crypto
 ---
 
 ### 💻 Habilidades Backend
