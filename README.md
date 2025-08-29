@@ -54,4 +54,5 @@ Olá! Sou um desenvolvedor **Full Stack** com experiência em **Android** e **Ba
 
 Você pode explorar alguns dos meus projetos e contribuições no meu perfil. Sinta-se à vontade para entrar em contato!
 
-* **GitHub:** [Andonyth](https://github.com/Andonyth)
+* **LinkedIn:** [Andonyth Espinoza](https://www.linkedin.com/in/andonyth-espinoza-62a198262)
+* **Email:** [Pessoal](mailto:andonythespinozamarcano@gmail.com)
