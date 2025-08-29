@@ -4,29 +4,6 @@ Olá! Sou um desenvolvedor **Full Stack** com experiência em **Android** e **Ba
 
 ---
 
-### 💻 Habilidades Backend
-
-* **Linguagens e Frameworks:**
-    * **Kotlin** com **Ktor Server** para criação de **APIs REST**.
-    * **Koin** para injeção de dependências.
-* **Bancos de Dados e ORM:**
-    * **PostgreSQL** (com *functions* para manejo de erros).
-    * **MySQL** (*View*, *Procedures*, *Functions*).
-    * **SQLite**.
-    * **Exposed ORM**.
-* **Infraestrutura e DevOps:**
-    * **Nginx** como proxy reverso.
-    * **CI/CD** com **Bash Script**, **Docker Compose** e **SSH**.
-    * **Versionamento** com **Git**.
-* **Outras Ferramentas e Conceitos:**
-    * **Redis** para caching em memória.
-    * **Ktor Client** para comunicação com APIs externas.
-    * **Idempotência** em *endpoints* de criação e modificação.
-    * Integração com **API Cielo 3.0** e **Firebase Admin SDK**.
-    * Noções de **Gradle**.
-
----
-
 ### 📱 Habilidades Android
 
 * **Linguagens e Frameworks:**
@@ -48,6 +25,28 @@ Olá! Sou um desenvolvedor **Full Stack** com experiência em **Android** e **Ba
     * **Gradle**.
     * **Git** para controle de versão.
 
+---
+
+### 💻 Habilidades Backend
+
+* **Linguagens e Frameworks:**
+    * **Kotlin** com **Ktor Server** para criação de **APIs REST**.
+    * **Koin** para injeção de dependências.
+* **Bancos de Dados e ORM:**
+    * **PostgreSQL** (com *functions* para manejo de erros).
+    * **MySQL** (*View*, *Procedures*, *Functions*).
+    * **SQLite**.
+    * **Exposed ORM**.
+* **Infraestrutura e DevOps:**
+    * **Nginx** como proxy reverso.
+    * **CI/CD** com **Bash Script**, **Docker Compose** e **SSH**.
+    * **Versionamento** com **Git**.
+* **Outras Ferramentas e Conceitos:**
+    * **Redis** para caching em memória.
+    * **Ktor Client** para comunicação com APIs externas.
+    * **Idempotência** em *endpoints* de criação e modificação.
+    * Integração com **API Cielo 3.0** e **Firebase Admin SDK**.
+    * Noções de **Gradle**.
 ---
 
 ### 🔗 Meus Projetos
